@@ -1,4 +1,5 @@
-var chocolateBars = new Array(4);
+var chocolateBars = [];
+
 chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
   
 
