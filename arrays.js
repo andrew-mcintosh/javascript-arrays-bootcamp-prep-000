@@ -3,10 +3,5 @@ chocolateBars;
 var newBar = "foo";
 
 function addElementToBeginningOfArray(chocolateBars, newBar) {
-  return 
-}
-
-function destructivelyAddElementToBeginningOfArray(array, element) {
-  var list = [];
-  list = ["element",...array];
+  return [chocolateBars...newBar]; 
 }
