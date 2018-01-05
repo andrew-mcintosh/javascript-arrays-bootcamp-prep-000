@@ -3,7 +3,7 @@ chocolateBars;
 
 function addElementToBeginningOfArray(array, element) {
   var list = [];
-  addElementToBeginningOfArray(...);
+  addElementToBeginningOfArray(...list);
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
