@@ -1,5 +1,5 @@
 var chocolateBars = [];
-chocolateBars
+chocolateBars[0]
 chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
   
 
