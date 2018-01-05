@@ -33,3 +33,8 @@ function removeElementFromBeginningOfArray(chocolateBars) {
   chocolateBars.slice(1);
   return chocolateBars;
 }
+
+function removeElementFromBeginningOfArray(chocolateBars){
+  chocolateBars = chocolateBars.slice(1);
+  return chocolateBars;
+}
