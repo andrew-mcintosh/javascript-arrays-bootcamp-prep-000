@@ -3,8 +3,7 @@ chocolateBars;
 var newBar = "foo";
 
 function addElementToBeginningOfArray(chocolateBars, newBar) {
-  var list = [];
-  list.unshift(...element);
+  return 
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
