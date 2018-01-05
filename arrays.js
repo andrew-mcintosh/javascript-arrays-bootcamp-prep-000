@@ -3,7 +3,7 @@ chocolateBars;
 var newBar = "foo";
 
 function addElementToBeginningOfArray(chocolateBars, newBar) {
-  return [chocolateBars,...newBar]; 
+  return [chocolateBars, ...newBar]; 
 }
 
 function addElementToBeginningOfArray(chocolateBars, newBar) {
